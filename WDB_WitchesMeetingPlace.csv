@@ -1,0 +1,562 @@
+﻿MeetingPlaceRef,MeetingPlaceSystemId,MeetingPlaceID,CaseRef,MeetingPlace_Place,Inversion,Location,Createdby,Createdate,Lastupdatedby,Lastupdatedon
+MP/JO/137,JO,137,C/EGD/1954,Yard,FALSE,own house,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/138,JO,138,C/EGD/402,,FALSE,going to Edinburgh,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/139,JO,139,C/JO/2830,,FALSE,'moremaddenhole' Leith,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/140,JO,140,C/JO/2830,,FALSE,the 'Latch' Edinburgh,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/141,JO,141,C/JO/2830,Burn,FALSE,,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/142,JO,142,C/LA/2786,,FALSE,Windygoul,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/143,JO,143,C/LA/2786,Hilltop,FALSE,Parson's Knoll,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/146,JO,146,C/EGD/402,House,FALSE,her own house,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/147,JO,147,C/EGD/402,,FALSE,Jock's Lodge,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/148,JO,148,C/LA/2785,House yard,FALSE,own house,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/149,JO,149,C/LA/2785,House,FALSE,in bedroom,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/150,JO,150,C/EGD/395,House,FALSE,own house,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/151,JO,151,C/EGD/397,Loch,FALSE,"lochside, beside meadow",jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/152,JO,152,C/EGD/401,Hilltop,FALSE,Gallolaw,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/153,JO,153,C/EGD/401,,FALSE,Jock's Lodge,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/154,JO,154,C/EGD/1954,Road,FALSE,Restalrig Loan,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/157,JO,157,C/EGD/398,House,FALSE,own house window,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/158,JO,158,C/EGD/401,Burn,FALSE,North Meadow burn,jhm,10-Jul-01,jhm,10-Jul-01
+MP/JO/159,JO,159,C/EGD/396,Yard,FALSE,Andrew Simmon's whinns,jhm,11-Jul-01,jhm,11-Jul-01
+MP/JO/160,JO,160,C/EGD/400,Mill,FALSE,'Breastmilne',jhm,11-Jul-01,jhm,11-Jul-01
+MP/JO/165,JO,165,C/EGD/400,,FALSE,Brownesmith?,jhm,16-Jul-01,jhm,16-Jul-01
+MP/JO/170,JO,170,C/JO/2846,Coalpit,FALSE,Southhundall?,jhm,24-Jul-01,jhm,24-Jul-01
+MP/JO/173,JO,173,C/EGD/1298,Burn,FALSE,Swynisburne,jhm,26-Jul-01,jhm,26-Jul-01
+MP/JO/174,JO,174,C/EGD/1817,House,FALSE,mother's house,jhm,31-Jul-01,jhm,22-Oct-02
+MP/JO/175,JO,175,C/EGD/2005,Hilltop,FALSE,Gallowberry Hill,jhm,31-Jul-01,jhm,31-Jul-01
+MP/JO/176,JO,176,C/EGD/1859,Hilltop,FALSE,Gallowberry Hill,jhm,31-Jul-01,jhm,31-Jul-01
+MP/JO/177,JO,177,C/EGD/1860,,FALSE,Kirkurd,jhm,31-Jul-01,jhm,31-Jul-01
+MP/JO/178,JO,178,C/JO/2882,House,FALSE,own house,jhm,07-Sep-01,jhm,07-Sep-01
+MP/JO/179,JO,179,C/JO/2882,Bridge,FALSE,Lintoun Bridge,jhm,07-Sep-01,jhm,07-Sep-01
+MP/JO/294,JO,294,C/EGD/1367,Haugh,FALSE,Samuelston,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/295,JO,295,C/EGD/1367,House,FALSE,Own house,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/296,JO,296,C/EGD/1368,Burn,FALSE,black burn beside Calfward,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/297,JO,297,C/EGD/1368,Moor,FALSE,Begbiemure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/298,JO,298,C/EGD/1368,Moor,FALSE,Overboltonmure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/299,JO,299,C/EGD/1368,Burn,FALSE,Kirkland burn,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/300,JO,300,C/EGD/1375,House,FALSE,own house,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/301,JO,301,C/EGD/1375,Moor,FALSE,Boltonmure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/302,JO,302,C/EGD/1375,Haugh,FALSE,Samuelston,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/303,JO,303,C/EGD/1375,Moor,FALSE,Pilmure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/304,JO,304,C/EGD/1375,Burn,FALSE,Black burn of Bolton,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/305,JO,305,C/EGD/1375,Moor,FALSE,Begbiemure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/306,JO,306,C/EGD/1372,House,FALSE,outside own house,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/307,JO,307,C/EGD/1372,Moor,FALSE,Baigbiemure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/308,JO,308,C/EGD/1372,Burn,FALSE,Black burn of Bolton,jhm,19-Oct-01,jhm,22-Oct-01
+MP/JO/309,JO,309,C/EGD/1373,Moor,FALSE,Baigbiemure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/310,JO,310,C/EGD/1373,Burn,FALSE,Black burn,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/311,JO,311,C/JO/2905,House,FALSE,Elizabeth Lawson's house,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/312,JO,312,C/JO/2905,Yard,FALSE,great yard of Blause,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/313,JO,313,C/JO/2905,Burn,FALSE,Black burn,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/314,JO,314,C/JO/2905,Well,FALSE,Cadger well,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/315,JO,315,C/EGD/1374,Burn,FALSE,Black burn of Bolton,jhm,19-Oct-01,jhm,22-Oct-01
+MP/JO/336,JO,336,C/EGD/1367,Burn,FALSE,Blackburn of Bolton,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/337,JO,337,C/EGD/1367,Moor,FALSE,baigbiemure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/338,JO,338,C/EGD/1374,Moor,FALSE,Baigbiemure,jhm,19-Oct-01,jhm,19-Oct-01
+MP/JO/36,JO,36,C/EGD/2121,Mercat Cross,FALSE,Aberdeen,jhm,05-Jun-01,jhm,05-Jun-01
+MP/JO/37,JO,37,C/EGD/1324,House yard,FALSE,Painston,jhm,13-Jun-01,jhm,13-Jun-01
+MP/JO/38,JO,38,C/EGD/1324,Loch,FALSE,Painston,jhm,13-Jun-01,jhm,13-Jun-01
+MP/JO/39,JO,39,C/EGD/1324,Dam,FALSE,Butter Dam,jhm,13-Jun-01,jhm,13-Jun-01
+MP/JO/40,JO,40,C/EGD/1323,Dean bank head,FALSE,Nisbot,jhm,13-Jun-01,jhm,13-Jun-01
+MP/JO/41,JO,41,C/EGD/1323,Moor,FALSE,,jhm,13-Jun-01,jhm,13-Jun-01
+MP/JO/42,JO,42,C/EGD/1323,Moor,FALSE,Gladsmuir,jhm,13-Jun-01,jhm,03-Oct-02
+MP/JO/43,JO,43,C/EGD/1323,House,FALSE,Nisbot,jhm,13-Jun-01,jhm,13-Jun-01
+MP/JO/440,JO,440,C/EGD/1818,Hilltop,FALSE,Gallowbeirnie Hill,jhm,27-Nov-01,jhm,27-Nov-01
+MP/JO/451,JO,451,C/EGD/2387,Mill,FALSE,,jhm,07-Feb-02,jhm,07-Feb-02
+MP/JO/452,JO,452,C/EGD/2387,Bridge,FALSE,,jhm,07-Feb-02,jhm,07-Feb-02
+MP/JO/453,JO,453,C/EGD/2387,Waterside,FALSE,West Mill,jhm,07-Feb-02,jhm,07-Feb-02
+MP/JO/454,JO,454,C/JO/2959,House,FALSE,her own house,jhm,07-Feb-02,jhm,07-Feb-02
+MP/JO/455,JO,455,C/EGD/1848,Moor,FALSE,common moor of Brechin at Lucifer's loch,jhm,07-Feb-02,jhm,07-Feb-02
+MP/JO/48,JO,48,C/JO/2667,Moor,FALSE,Foxton moor,jhm,14-Jun-01,jhm,14-Jun-01
+MP/JO/49,JO,49,C/JO/2668,Moor,FALSE,Foxton moor,jhm,14-Jun-01,jhm,14-Jun-01
+MP/JO/50,JO,50,C/EGD/1337,,FALSE,,jhm,15-Jun-01,jhm,15-Jun-01
+MP/JO/550,JO,550,C/EGD/2153,Hilltop,FALSE,Hill of Cragleauche,jhm,07-Mar-02,jhm,07-Mar-02
+MP/JO/551,JO,551,C/EGD/2119,Mercat Cross,FALSE,Aberdeen,jhm,02-May-02,jhm,02-May-02
+MP/JO/552,JO,552,C/EGD/2119,Fish cross,FALSE,Aberdeen,jhm,02-May-02,jhm,02-May-02
+MP/JO/553,JO,553,C/EGD/2119,Meal market,FALSE,Aberdeen,jhm,02-May-02,jhm,02-May-02
+MP/JO/554,JO,554,C/EGD/2159,Jail,FALSE,Slains,jhm,09-May-02,jhm,09-May-02
+MP/JO/555,JO,555,C/EGD/2159,Loch,FALSE,near her house,jhm,09-May-02,jhm,09-May-02
+MP/JO/556,JO,556,C/EGD/2163,,FALSE,between Lumphanan and Cragleuch,jhm,14-May-02,jhm,14-May-02
+MP/JO/558,JO,558,C/EGD/2154,,FALSE,Craigleauch,jhm,16-May-02,jhm,16-May-02
+MP/JO/561,JO,561,C/EGD/2161,Foot of hill,FALSE,Craigleuch,jhm,03-Jun-02,jhm,03-Jun-02
+MP/JO/562,JO,562,C/EGD/2162,Hilltop,FALSE,Hill of Cragleuche,jhm,03-Jun-02,jhm,03-Jun-02
+MP/JO/565,JO,565,C/EGD/2130,Yard,FALSE,Lammyntownis yard,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/566,JO,566,C/EGD/2130,yard,FALSE,James Thomsoun's yard,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/567,JO,567,C/EGD/2130,Cross,FALSE,Fish cross,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/568,JO,568,C/EGD/2130,Mercat Cross,FALSE,meal market,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/569,JO,569,C/EGD/2122,Yard,FALSE,James Thomsouns's yard,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/570,JO,570,C/EGD/2122,Cross,FALSE,Fish cross,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/571,JO,571,C/EGD/2122,Mercat Cross,FALSE,meal market,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/572,JO,572,C/EGD/2123,Yard,FALSE,James Thomsoun's yard,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/573,JO,573,C/EGD/2123,Cross,FALSE,Fish cross,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/574,JO,574,C/EGD/2123,Mercat Cross,FALSE,meal mercat,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/575,JO,575,C/EGD/2141,House,FALSE,own house,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/576,JO,576,C/EGD/2141,Field,FALSE,assorted fields,jhm,10-Jun-02,jhm,10-Jun-02
+MP/JO/577,JO,577,C/JO/3046,Links,FALSE,Links of Muness,jhm,17-Jun-02,jhm,17-Jun-02
+MP/JO/582,JO,582,C/JO/3059,,FALSE,between mill and park,jhm,27-Jun-02,jhm,27-Jun-02
+MP/JO/583,JO,583,C/JO/3059,Hilltop,FALSE,above Kincardine,jhm,27-Jun-02,jhm,27-Jun-02
+MP/JO/584,JO,584,C/JO/3068,House,FALSE,neighbour's house,jhm,02-Jul-02,jhm,02-Jul-02
+MP/JO/585,JO,585,C/EGD/297,House,FALSE,neighbour's house,jhm,03-Jul-02,jhm,03-Jul-02
+MP/JO/586,JO,586,C/EGD/297,Cross,FALSE,Alloa cross,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/587,JO,587,C/EGD/297,,FALSE,Cunigar?,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/588,JO,588,C/EGD/297,Barn,FALSE,at barn door,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/589,JO,589,C/EGD/297,House,FALSE,other person's house,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/590,JO,590,C/EGD/294,Meadow,FALSE,,jhm,04-Jul-02,jhm,13-Nov-02
+MP/JO/591,JO,591,C/EGD/294,Burn,FALSE,Bagraburn,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/592,JO,592,C/EGD/294,House,FALSE,other people's houses,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/593,JO,593,C/EGD/291,Meadow,FALSE,,jhm,04-Jul-02,jhm,13-Nov-02
+MP/JO/594,JO,594,C/EGD/291,House,FALSE,other people's house,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/595,JO,595,C/EGD/293,Meadow,FALSE,,jhm,04-Jul-02,jhm,13-Nov-02
+MP/JO/596,JO,596,C/EGD/293,Burn,FALSE,Bagraburn,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/597,JO,597,C/EGD/293,House,FALSE,other person's house,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/598,JO,598,C/EGD/293,Barn,FALSE,,jhm,04-Jul-02,jhm,04-Jul-02
+MP/JO/599,JO,599,C/EGD/1746,House,FALSE,own house,jhm,10-Jul-02,jhm,10-Jul-02
+MP/JO/600,JO,600,C/EGD/2373,Town wall,FALSE,"town wall at West Post, Edinburgh",jhm,11-Jul-02,jhm,11-Jul-02
+MP/JO/601,JO,601,C/EGD/2373,Quarry,FALSE,Quarrell hole (quarry),jhm,11-Jul-02,jhm,11-Jul-02
+MP/JO/602,JO,602,C/EGD/2373,,FALSE,place of Merchiston,jhm,11-Jul-02,jhm,11-Jul-02
+MP/JO/603,JO,603,C/EGD/1813,Hilltop,FALSE,Corstorphine hill,jhm,11-Jul-02,jhm,11-Jul-02
+MP/JO/604,JO,604,C/EGD/1813,Park,FALSE,,jhm,11-Jul-02,jhm,11-Jul-02
+MP/JO/605,JO,605,C/EGD/1628,Park,FALSE,,jhm,11-Jul-02,jhm,11-Jul-02
+MP/JO/606,JO,606,C/JO/3093,House,FALSE,her own house,jhm,18-Jul-02,jhm,18-Jul-02
+MP/JO/622,JO,622,C/EGD/2446,Loan,FALSE,Pittenweem,jhm,02-Aug-02,jhm,02-Aug-02
+MP/JO/623,JO,623,C/EGD/830,Loan,FALSE,Pittenweem,jhm,02-Aug-02,jhm,02-Aug-02
+MP/JO/624,JO,624,C/EGD/831,Moor,FALSE,Ceres Moor,jhm,02-Aug-02,jhm,02-Aug-02
+MP/JO/625,JO,625,C/EGD/2446,Tolbooth,FALSE,Laigh Tolbooth,jhm,02-Aug-02,jhm,06-Aug-02
+MP/JO/626,JO,626,C/EGD/2444,House,FALSE,McGregor's house,jhm,02-Aug-02,jhm,02-Aug-02
+MP/JO/646,JO,646,C/EGD/1533,Moor,FALSE,Corsmore,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/647,JO,647,C/EGD/1533,,FALSE,between Kilmachalmok and Edinmore,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/648,JO,648,C/EGD/1533,Moor,FALSE,between Mikell Kilmorie and Killeferne Moore,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/649,JO,649,C/EGD/1533,,FALSE,Lochfyne,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/650,JO,650,C/EGD/1527,House,FALSE,own house,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/651,JO,651,C/EGD/1527,,FALSE,Cregandow or Bute quay,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/652,JO,652,C/JO/3246,Field,FALSE,Faldtombuie,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/653,JO,653,C/JO/3246,Yard,FALSE,Caleyaird,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/654,JO,654,C/JO/3246,Hilltop,FALSE,Kilmory,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/655,JO,655,C/JO/3247,Hilltop,FALSE,"Ardturr and Glackiriska, Appin",jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/656,JO,656,C/JO/3247,,FALSE,Lismore,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/657,JO,657,C/JO/3247,Fairy mound,FALSE,Shian of Barcaldine,jhm,27-Aug-02,jhm,27-Aug-02
+MP/JO/658,JO,658,C/JO/3248,,FALSE,Knockanrioch,jhm,28-Aug-02,jhm,28-Aug-02
+MP/JO/659,JO,659,C/JO/3248,,FALSE,Bute quay,jhm,28-Aug-02,jhm,28-Aug-02
+MP/JO/66,JO,66,C/EGD/604,Shore,FALSE,Bute Quau,jhm,27-Jun-01,jhm,27-Aug-02
+MP/JO/660,JO,660,C/JO/3071,House,FALSE,Neighbour's house,jhm,26-Sep-02,jhm,26-Sep-02
+MP/LA/1,LA,1,C/EGD/160,Hilltop,FALSE,Dounhill of Spott,LEM,17-May-01,LEM,17-May-01
+MP/LA/10,LA,10,C/EGD/166,Valley,FALSE,Den betwixt Nidrie and Edmestoun,LEM,18-May-01,LEM,21-May-01
+MP/LA/100,LA,100,C/EGD/364,Dam,FALSE,Newtown Deinhead,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/102,LA,102,C/EGD/384,Shore,FALSE,on the other side of the water,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/103,LA,103,C/EGD/384,House,FALSE,her house,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/105,LA,105,C/EGD/381,Shore,FALSE,near the bridge at the bank of John Ballingtyne's,LEM,29-Jun-01,LEM,17-Jul-01
+MP/LA/106,LA,106,C/EGD/381,Yard,FALSE,at her farm,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/107,LA,107,C/EGD/381,Road,FALSE,between Skloutford and nether Liberton,LEM,29-Jun-01,jhm,05-Nov-02
+MP/LA/108,LA,108,C/EGD/382,Dam,FALSE,Causland dam,LEM,29-Jun-01,jhm,05-Nov-02
+MP/LA/109,LA,109,C/EGD/382,Yard,FALSE,back of Dalkeith yards,LEM,29-Jun-01,jhm,05-Nov-02
+MP/LA/110,LA,110,C/EGD/382,Mill,FALSE,Millgreen of Dalkeith,LEM,29-Jun-01,jhm,05-Nov-02
+MP/LA/111,LA,111,C/EGD/385,Barn,FALSE,her byre while milking,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/112,LA,112,C/EGD/390,Yard,FALSE,just outside her house,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/113,LA,113,C/EGD/388,,FALSE,Gilmerton Ward,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/114,LA,114,C/EGD/389,House,FALSE,his own,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/115,LA,115,C/EGD/389,Yard,FALSE,Lady Laytoun's,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/116,LA,116,C/EGD/389,Barn,FALSE,drawing down of Robert Mitchell's,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/117,LA,117,C/EGD/391,Yard,FALSE,neighbours yard dyke,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/118,LA,118,C/EGD/391,,FALSE,Carthall,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/119,LA,119,C/EGD/386,Bed,FALSE,her bed,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/12,LA,12,C/EGD/166,Hilltop,FALSE,"a) Hugstoun Hillis, 12:00",LEM,21-May-01,LEM,21-May-01
+MP/LA/120,LA,120,C/EGD/386,,FALSE,stick gathering,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/121,LA,121,C/EGD/404,Hilltop,FALSE,,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/122,LA,122,C/EGD/392,Hilltop,FALSE,,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/123,LA,123,C/EGD/387,Hilltop,FALSE,,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/124,LA,124,C/EGD/387,Bed,FALSE,her own,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/125,LA,125,C/EGD/398,Shore,FALSE,tweedsyde,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/126,LA,126,C/EGD/398,Dyke,FALSE,green dykes,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/127,LA,127,C/EGD/395,Dyke,FALSE,green dykes,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/128,LA,128,C/EGD/397,Dyke,FALSE,green dykes,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/13,LA,13,C/EGD/166,Hilltop,FALSE,b) Gairnetoun Hillis,LEM,21-May-01,LEM,21-May-01
+MP/LA/130,LA,130,C/LA/2785,Dyke,FALSE,green dyke,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/131,LA,131,C/LA/2786,Dyke,FALSE,green dyke,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/132,LA,132,C/EGD/1954,Links,FALSE,Duddingston,LEM,02-Jul-01,LEM,02-Jul-01
+MP/LA/133,LA,133,C/EGD/400,Howe,FALSE,howe by standing stone near Newbridge/Kirkliston,LEM,02-Jul-01,jhm,11-Jul-01
+MP/LA/134,LA,134,C/EGD/400,Shore,FALSE,Cliftonhall side of the water,LEM,02-Jul-01,jhm,11-Jul-01
+MP/LA/135,LA,135,C/EGD/409,Dam,FALSE,Newtoun Deam,LEM,04-Jul-01,LEM,04-Jul-01
+MP/LA/136,LA,136,C/EGD/377,Dam,FALSE,Newtown Dam,LEM,04-Jul-01,jhm,05-Nov-02
+MP/LA/137,LA,137,C/EGD/370,House,FALSE,Wolmet,LEM,09-Jul-01,LEM,09-Jul-01
+MP/LA/138,LA,138,C/EGD/378,Hilltop,FALSE,Blewhill,LEM,09-Jul-01,LEM,09-Jul-01
+MP/LA/139,LA,139,C/LA/2798,Den,FALSE,Newtown Dean,LEM,09-Jul-01,LEM,09-Jul-01
+MP/LA/14,LA,14,C/EGD/166,Hilltop,FALSE,bewest the castle of Dunce,LEM,21-May-01,LEM,21-May-01
+MP/LA/140,LA,140,C/LA/2798,House,FALSE,her house,LEM,09-Jul-01,LEM,09-Jul-01
+MP/LA/141,LA,141,C/EGD/374,House,FALSE,her own,LEM,09-Jul-01,LEM,09-Jul-01
+MP/LA/142,LA,142,C/EGD/371,River,FALSE,Newtown Burne,LEM,09-Jul-01,LEM,09-Jul-01
+MP/LA/143,LA,143,C/EGD/392,Yard,FALSE,Kirkyard of Dunfyre,LEM,09-Jul-01,LEM,10-Jul-01
+MP/LA/149,LA,149,C/LA/2787,Yard,FALSE,Lady Langtoun's yard,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/15,LA,15,C/EGD/166,Forest,FALSE,Saltoun woid,LEM,21-May-01,LEM,21-May-01
+MP/LA/151,LA,151,C/EGD/359,Well,FALSE,Roland Rutherford's,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/152,LA,152,C/EGD/359,Ward,FALSE,Gilmerton Ward,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/153,LA,153,C/EGD/360,Road,FALSE,between William Graham's house and hers,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/154,LA,154,C/EGD/360,River,FALSE,pow-burn on the route home from Edinburgh,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/155,LA,155,C/EGD/404,Road,FALSE,coming from Brandis Milne,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/156,LA,156,C/EGD/387,Yard,FALSE,Mortonhall Park,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/157,LA,157,C/EGD/415,Yard,FALSE,Gilmerton Park,LEM,10-Jul-01,LEM,10-Jul-01
+MP/LA/158,LA,158,C/EGD/335,Bush,FALSE,,LEM,11-Jul-01,LEM,11-Jul-01
+MP/LA/16,LA,16,C/EGD/166,Hilltop,FALSE,Monkrig above the stob stane,LEM,21-May-01,LEM,21-May-01
+MP/LA/160,LA,160,C/EGD/1374,Den,FALSE,Hodin Dean,LEM,11-Jul-01,LEM,11-Jul-01
+MP/LA/163,LA,163,C/EGD/1375,Den,FALSE,hodin dean,LEM,11-Jul-01,LEM,11-Jul-01
+MP/LA/164,LA,164,C/EGD/411,Den,FALSE,hodin dean,LEM,11-Jul-01,LEM,11-Jul-01
+MP/LA/166,LA,166,C/EGD/385,Road,FALSE,while ridding a horse to the coal hill,LEM,17-Jul-01,LEM,17-Jul-01
+MP/LA/167,LA,167,C/EGD/377,,FALSE,Newtown,LEM,17-Jul-01,LEM,17-Jul-01
+MP/LA/168,LA,168,C/EGD/381,House,FALSE,either her's or William Tweedie's,LEM,17-Jul-01,jhm,05-Nov-02
+MP/LA/17,LA,17,C/EGD/166,Links,FALSE,Linkis of Prestoun,LEM,21-May-01,LEM,21-May-01
+MP/LA/178,LA,178,C/LA/2876,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/179,LA,179,C/EGD/1243,River mouth,FALSE,"Dee, near the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/18,LA,18,C/EGD/166,Moor,FALSE,Cauld Coit mure,LEM,21-May-01,LEM,21-May-01
+MP/LA/180,LA,180,C/EGD/1242,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/181,LA,181,C/EGD/1241,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/182,LA,182,C/EGD/1244,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/183,LA,183,C/EGD/1245,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/184,LA,184,C/EGD/1246,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/185,LA,185,C/EGD/1247,River mouth,FALSE,"Dee, beside the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/186,LA,186,C/EGD/1248,River mouth,FALSE,"Dee, near the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/187,LA,187,C/EGD/1249,River mouth,FALSE,"Dee, by the blockhous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/188,LA,188,C/EGD/1250,River mouth,FALSE,"Dee, by the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/189,LA,189,C/EGD/1251,River mouth,FALSE,"Dee, by the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/19,LA,19,C/EGD/166,Road,FALSE,c) heid of the broken Calsey of Niddry,LEM,21-May-01,LEM,21-May-01
+MP/LA/190,LA,190,C/EGD/1252,River mouth,FALSE,"Dee, by the blockehous",LEM,06-Sep-01,LEM,06-Sep-01
+MP/LA/191,LA,191,C/EGD/606,Kirkyard,FALSE,west Kirk of Culross,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/192,LA,192,C/EGD/607,Kirkyard,FALSE,west kirk of Culross,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/193,LA,193,C/EGD/607,House,FALSE,her own,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/194,LA,194,C/EGD/608,Kirkyard,FALSE,west kirk of culross,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/195,LA,195,C/EGD/609,Kirkyard,FALSE,west kirk of culross,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/196,LA,196,C/EGD/609,Bank Side,FALSE,at her mother's house,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/197,LA,197,C/EGD/607,,FALSE,the strand,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/198,LA,198,C/EGD/607,Hollow,FALSE,Cannieman's hollow,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/199,LA,199,C/EGD/606,Shore,FALSE,,LEM,07-Sep-01,LEM,07-Sep-01
+MP/LA/2,LA,2,C/EGD/160,,FALSE,Madeis Loupe,LEM,17-May-01,LEM,17-May-01
+MP/LA/201,LA,201,C/EGD/694,Haugh,FALSE,Ward Haugh,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/202,LA,202,C/EGD/694,Bridge,FALSE,kirk bridge,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/203,LA,203,C/EGD/694,Hilltop,FALSE,corsehill,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/204,LA,204,C/EGD/694,Wood,FALSE,Ormeston Wood,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/21,LA,21,C/EGD/162,Road,FALSE,Heid of the broken Clasay of Nydrie,LEM,21-May-01,LEM,21-May-01
+MP/LA/214,LA,214,C/EGD/624,Bridge,FALSE,kirk bridge,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/215,LA,215,C/EGD/624,Haugh,FALSE,ward haugh,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/216,LA,216,C/EGD/624,Hilltop,FALSE,corsehill,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/217,LA,217,C/EGD/693,Burn,FALSE,Murrais burne,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/219,LA,219,C/EGD/692,Burn,FALSE,Murrais Burne,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/220,LA,220,C/EGD/613,Hilltop,FALSE,Barliehill,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/221,LA,221,C/EGD/613,Wood,FALSE,wood head of crighton,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/222,LA,222,C/EGD/614,Hilltop,FALSE,Barliehill,LEM,11-Sep-01,LEM,11-Sep-01
+MP/LA/223,LA,223,C/EGD/691,House,FALSE,Helen Laying's (c/egd/692),LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/224,LA,224,C/EGD/691,,TRUE,flaming fire in Crighton,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/225,LA,225,C/EGD/694,,FALSE,Leswade,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/226,LA,226,C/EGD/694,,FALSE,Loanhead,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/227,LA,227,C/EGD/694,Field,FALSE,,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/228,LA,228,C/EGD/694,Burn,FALSE,Cowe burn,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/229,LA,229,C/EGD/620,Haugh,FALSE,Ward haugh,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/23,LA,23,C/EGD/179,Kirkyard,FALSE,in Glendovan,LEM,21-May-01,LEM,21-May-01
+MP/LA/230,LA,230,C/EGD/620,Burn,FALSE,Cowe burn,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/231,LA,231,C/EGD/692,Burn,FALSE,ward burn,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/232,LA,232,C/EGD/692,Yard,FALSE,own yard,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/233,LA,233,C/EGD/692,Field,FALSE,black faugh,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/234,LA,234,C/EGD/693,House,FALSE,own house between bed and fire,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/235,LA,235,C/EGD/693,Burn,FALSE,Templehall burne,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/237,LA,237,C/EGD/611,Hilltop,FALSE,Birliehill,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/24,LA,24,C/EGD/179,Kirkyard,FALSE,Muckhart,LEM,21-May-01,jhm,22-Oct-02
+MP/LA/240,LA,240,C/EGD/696,burn,FALSE,cowe burn,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/241,LA,241,C/EGD/696,Bridge,FALSE,Keith Bridge,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/242,LA,242,C/EGD/696,House,FALSE,white house in Cranstoun's back yard,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/245,LA,245,C/EGD/697,Farm,FALSE,farm brae at midnight,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/246,LA,246,C/EGD/697,Dam,FALSE,Line dean,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/247,LA,247,C/EGD/697,House,FALSE,white house,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/25,LA,25,C/EGD/179,,FALSE,Rumbling Bridge,LEM,21-May-01,LEM,21-May-01
+MP/LA/252,LA,252,C/EGD/695,Dam,FALSE,Lin Dean,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/253,LA,253,C/EGD/695,House,FALSE,whitehouse,LEM,21-Sep-01,LEM,21-Sep-01
+MP/LA/254,LA,254,C/EGD/140,Shore,FALSE,Common Waist Sandhillis near Irving,LEM,25-Sep-01,LEM,01-Oct-01
+MP/LA/256,LA,256,C/EGD/147,Dam,FALSE,Deam futtie of Longniddry,LEM,26-Sep-01,LEM,26-Sep-01
+MP/LA/257,LA,257,C/EGD/147,House,FALSE,Beigis' house,LEM,26-Sep-01,LEM,26-Sep-01
+MP/LA/265,LA,265,C/EGD/140,Kirkyard,FALSE,,LEM,01-Oct-01,LEM,01-Oct-01
+MP/LA/266,LA,266,C/EGD/140,Kirk,FALSE,,LEM,01-Oct-01,LEM,01-Oct-01
+MP/LA/267,LA,267,C/EGD/140,Hilltop,FALSE,Lowdon Hill,LEM,01-Oct-01,LEM,01-Oct-01
+MP/LA/280,LA,280,C/EGD/147,Thorn,FALSE,Seaton-thorn,LEM,01-Oct-01,LEM,01-Oct-01
+MP/LA/281,LA,281,C/EGD/147,Gate,FALSE,iron gate of Seaton,LEM,01-Oct-01,LEM,01-Oct-01
+MP/LA/290,LA,290,C/EGD/137,Craigs,FALSE,Bynnie-craigs,LEM,03-Oct-01,LEM,03-Oct-01
+MP/LA/291,LA,291,C/EGD/137,Craigs,FALSE,Corstorphine-craigs,LEM,03-Oct-01,jhm,03-Oct-02
+MP/LA/292,LA,292,C/EGD/34,Moor,FALSE,Grange-more,LEM,08-Oct-01,LEM,08-Oct-01
+MP/LA/293,LA,293,C/EGD/59,Kirk,TRUE,North Berwick kirk,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/294,LA,294,C/EGD/59,Ship,FALSE,A ship off the coast of the pannes,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/295,LA,295,C/EGD/59,Hilltop,FALSE,Brumhoillis,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/300,LA,300,C/EGD/63,Kirk,TRUE,North Berwick Kirk,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/301,LA,301,C/EGD/63,Ship,FALSE,off the coast of the pannes,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/306,LA,306,C/EGD/63,Ship,FALSE,the grace of God,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/307,LA,307,C/EGD/63,Shore,TRUE,all along the south coast of the forth,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/308,LA,308,C/EGD/63,Kirk,FALSE,"Kirk of Garvett, be-eist Burn syde",LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/309,LA,309,C/EGD/63,,FALSE,Foulstruther,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/310,LA,310,C/EGD/63,Kirk,FALSE,Natoun Kirk,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/311,LA,311,C/EGD/63,,FALSE,pier-head,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/312,LA,312,C/EGD/63,Kirk,TRUE,North Berwick,LEM,09-Oct-01,LEM,09-Oct-01
+MP/LA/32,LA,32,C/LA/2638,House,FALSE,accomplices' house,LEM,22-May-01,LEM,22-May-01
+MP/LA/33,LA,33,C/EGD/180,House,FALSE,accomplice's house,LEM,22-May-01,LEM,22-May-01
+MP/LA/34,LA,34,C/EGD/180,,FALSE,on the way to get ale,LEM,22-May-01,jhm,22-Oct-02
+MP/LA/355,LA,355,C/EGD/120,,FALSE,Foulstruther,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/356,LA,356,C/EGD/110,Kirk,TRUE,North Berwick,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/357,LA,357,C/EGD/110,Salt pans,FALSE,near the pannes,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/358,LA,358,C/EGD/110,House,FALSE,wobster's house,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/359,LA,359,C/EGD/110,,FALSE,Foulstruther,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/360,LA,360,C/EGD/104,Kirk,FALSE,Natoun,LEM,10-Oct-01,LEM,16-Oct-01
+MP/LA/365,LA,365,C/EGD/110,House,FALSE,Beigis Tod's house,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/373,LA,373,C/EGD/147,Salt pans,FALSE,near the pannes,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/381,LA,381,C/LA/2911,Ship,FALSE,,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/387,LA,387,C/EGD/104,Kirk,TRUE,North Berwick,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/388,LA,388,C/EGD/103,Kirk,TRUE,North Berwick,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/389,LA,389,C/EGD/103,Shore,FALSE,Aitchesounes-heavin between musselburgh and pannes,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/390,LA,390,C/EGD/107,Shore,FALSE,"Aitchesounes heavin, btw musselburgh and pannes",LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/391,LA,391,C/EGD/107,Kirk,TRUE,North Berwick,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/393,LA,393,C/EGD/110,Shore,FALSE,Aitchisoune's heavin btw Musselburgh and pannes,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/394,LA,394,C/EGD/108,Shore,FALSE,Aitchisoune's heavin btw Musselbrugh and pannes,LEM,10-Oct-01,LEM,10-Oct-01
+MP/LA/397,LA,397,C/EGD/104,Shore,FALSE,New-heavin also called fairy-hoillis,LEM,16-Oct-01,LEM,16-Oct-01
+MP/LA/398,LA,398,C/EGD/104,Hilltop,FALSE,Brum-hoillis,LEM,16-Oct-01,LEM,16-Oct-01
+MP/LA/399,LA,399,C/EGD/104,Shore,FALSE,Leith,LEM,16-Oct-01,LEM,16-Oct-01
+MP/LA/4,LA,4,C/EGD/159,Hilltop,FALSE,Dounhill of Spott,LEM,17-May-01,LEM,17-May-01
+MP/LA/403,LA,403,C/EGD/1268,House,FALSE,abandoned old house,LEM,16-Oct-01,LEM,16-Oct-01
+MP/LA/404,LA,404,C/EGD/1269,House,FALSE,abandoned house called Howing Greyman,LEM,16-Oct-01,LEM,16-Oct-01
+MP/LA/405,LA,405,C/EGD/29,Field,FALSE,near her house,LEM,18-Oct-01,LEM,18-Oct-01
+MP/LA/406,LA,406,C/EGD/29,Thorn,FALSE,thorne of Damwstarnok,LEM,18-Oct-01,LEM,18-Oct-01
+MP/LA/407,LA,407,C/EGD/29,House,FALSE,her own,LEM,18-Oct-01,LEM,18-Oct-01
+MP/LA/408,LA,408,C/EGD/1329,,FALSE,low place above Cransmouth,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/409,LA,409,C/EGD/1334,Yard,FALSE,back of Thomas Browun's barn,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/410,LA,410,C/EGD/1334,Yard,FALSE,back of Laurd of Wedderburn's house,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/411,LA,411,C/EGD/1334,River mouth,FALSE,Forth of Eyemouth,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/412,LA,412,C/EGD/1333,Yard,FALSE,back of Laird of Wedderburn's house,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/417,LA,417,C/EGD/1312,Green,FALSE,Dirleton,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/424,LA,424,C/EGD/1322,House,FALSE,,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/425,LA,425,C/EGD/1322,House,FALSE,,LEM,19-Oct-01,LEM,19-Oct-01
+MP/LA/430,LA,430,C/EGD/1308,Kirk,FALSE,High kirk of Lanark,LEM,22-Oct-01,LEM,22-Oct-01
+MP/LA/431,LA,431,C/EGD/1308,Kirk,FALSE,kirk of Carnwath,LEM,22-Oct-01,LEM,22-Oct-01
+MP/LA/434,LA,434,C/EGD/1310,Road,FALSE,on her way home at 12:00am,LEM,23-Oct-01,LEM,23-Oct-01
+MP/LA/44,LA,44,C/EGD/169,,FALSE,Coldingham Law,LEM,14-Jun-01,LEM,14-Jun-01
+MP/LA/441,LA,441,C/EGD/1749,House,FALSE,Her own,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/442,LA,442,C/EGD/1748,House,FALSE,his own,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/443,LA,443,C/EGD/1747,House,FALSE,her mother's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/444,LA,444,C/EGD/1747,House,FALSE,her brother's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/445,LA,445,C/EGD/1746,House,FALSE,Mathie's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/446,LA,446,C/EGD/1746,House,FALSE,John Stewart's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/447,LA,447,C/EGD/1745,House,FALSE,Mathie's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/448,LA,448,C/EGD/1745,House,FALSE,John Stewart's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/449,LA,449,C/EGD/1744,House,FALSE,Mathie's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/45,LA,45,C/EGD/173,Barn,FALSE,head of the dead mans burne,LEM,15-Jun-01,LEM,15-Jun-01
+MP/LA/450,LA,450,C/EGD/1744,House,FALSE,John Stewart's,LEM,16-Jan-02,LEM,16-Jan-02
+MP/LA/451,LA,451,C/EGD/1773,,FALSE,Kilpatrik,LEM,30-Jan-02,LEM,30-Jan-02
+MP/LA/452,LA,452,C/EGD/1773,Moor,FALSE,Kilmacolme,LEM,30-Jan-02,LEM,30-Jan-02
+MP/LA/453,LA,453,C/EGD/1773,Yard,FALSE,Christian Shaw,LEM,30-Jan-02,LEM,30-Jan-02
+MP/LA/454,LA,454,C/EGD/1773,Yard,FALSE,murdered minister,LEM,30-Jan-02,LEM,30-Jan-02
+MP/LA/455,LA,455,C/EGD/1773,House,FALSE,murdered child,LEM,30-Jan-02,LEM,30-Jan-02
+MP/LA/456,LA,456,C/LA/2959,,FALSE,Kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/457,LA,457,C/LA/2959,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/458,LA,458,C/LA/2959,Yard,FALSE,Christian Shaw,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/459,LA,459,C/LA/2959,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/46,LA,46,C/EGD/173,Mill,FALSE,,LEM,15-Jun-01,LEM,15-Jun-01
+MP/LA/460,LA,460,C/LA/2959,House,FALSE,murdered child,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/461,LA,461,C/EGD/1778,,FALSE,kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/462,LA,462,C/EGD/1778,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/463,LA,463,C/EGD/1778,Yard,FALSE,christian Shaw,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/464,LA,464,C/EGD/1778,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/465,LA,465,C/EGD/1778,House,FALSE,murdered child,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/466,LA,466,C/EGD/1781,,FALSE,Kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/467,LA,467,C/EGD/1781,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/468,LA,468,C/EGD/1781,Yard,FALSE,christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/469,LA,469,C/EGD/1781,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/47,LA,47,C/EGD/173,Yard,FALSE,tenth (teynd) yard,LEM,15-Jun-01,LEM,15-Jun-01
+MP/LA/470,LA,470,C/EGD/1781,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/471,LA,471,C/EGD/1774,,FALSE,Kilpatrick,LEM,31-Jan-02,jhm,22-Oct-02
+MP/LA/472,LA,472,C/EGD/1774,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/473,LA,473,C/EGD/1774,Yard,FALSE,christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/474,LA,474,C/EGD/1774,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/475,LA,475,C/EGD/1774,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/476,LA,476,C/EGD/1780,,FALSE,Kilpatrick,LEM,31-Jan-02,jhm,22-Oct-02
+MP/LA/477,LA,477,C/EGD/1780,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/478,LA,478,C/EGD/1780,Yard,FALSE,christian shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/479,LA,479,C/EGD/1780,Yard,FALSE,"murdered minsiter, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/48,LA,48,C/EGD/173,Shore,FALSE,in Eyemouth,LEM,15-Jun-01,LEM,15-Jun-01
+MP/LA/480,LA,480,C/EGD/1780,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/481,LA,481,C/EGD/1777,,FALSE,kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/482,LA,482,C/EGD/1777,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/483,LA,483,C/EGD/1777,Yard,FALSE,christian shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/484,LA,484,C/EGD/1777,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/485,LA,485,C/EGD/1777,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/486,LA,486,C/EGD/1935,,FALSE,Kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/487,LA,487,C/EGD/1935,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/488,LA,488,C/EGD/1935,Yard,FALSE,christian shaw,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/489,LA,489,C/EGD/1935,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,jhm,23-Oct-02
+MP/LA/490,LA,490,C/EGD/1935,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/492,LA,492,C/LA/2968,Moor,FALSE,kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/493,LA,493,C/LA/2968,Yard,FALSE,Christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/494,LA,494,C/LA/2969,Yard,FALSE,Christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/495,LA,495,C/LA/2970,,FALSE,kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/496,LA,496,C/LA/2970,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/497,LA,497,C/LA/2970,Yard,FALSE,Christian Shaw,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/498,LA,498,C/LA/2970,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/499,LA,499,C/LA/2970,House,FALSE,murdered child,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/5,LA,5,C/EGD/948,Hilltop,FALSE,Dounhill of Spott,LEM,17-May-01,LEM,17-May-01
+MP/LA/500,LA,500,C/LA/2972,,FALSE,kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/501,LA,501,C/LA/2972,Yard,FALSE,christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/502,LA,502,C/LA/2972,Yard,FALSE,"murdered minsiter, mr John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/503,LA,503,C/LA/2972,House,FALSE,murdered boy's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/504,LA,504,C/LA/2972,Moor,FALSE,kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/505,LA,505,C/EGD/1779,,FALSE,Kilpatrick,LEM,31-Jan-02,jhm,22-Oct-02
+MP/LA/506,LA,506,C/EGD/1779,Moor,FALSE,Kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/507,LA,507,C/EGD/1779,Yard,FALSE,christian shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/508,LA,508,C/EGD/1779,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/509,LA,509,C/EGD/1779,House,FALSE,murdered child,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/510,LA,510,C/LA/2973,,FALSE,kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/511,LA,511,C/LA/2973,Moor,FALSE,kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/512,LA,512,C/LA/2973,Yard,FALSE,Christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/513,LA,513,C/LA/2973,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/514,LA,514,C/LA/2973,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/515,LA,515,C/LA/2974,,FALSE,kilpatrick,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/516,LA,516,C/LA/2974,Moor,FALSE,kilmacolme,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/517,LA,517,C/LA/2974,Yard,FALSE,Christian Shaw's,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/518,LA,518,C/LA/2974,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/519,LA,519,C/LA/2974,House,FALSE,murdered boy,LEM,31-Jan-02,LEM,31-Jan-02
+MP/LA/520,LA,520,C/LA/2975,,FALSE,Kilpatrick,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/521,LA,521,C/LA/2975,Moor,FALSE,Kilmacolme,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/522,LA,522,C/LA/2975,Yard,FALSE,Christian Shaw's,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/523,LA,523,C/LA/2975,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/524,LA,524,C/LA/2975,House,FALSE,murdered boy,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/525,LA,525,C/LA/2976,,FALSE,kilpatrick,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/526,LA,526,C/LA/2976,Moor,FALSE,kilmacolme,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/527,LA,527,C/LA/2976,Yard,FALSE,Christian Shaw's,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/528,LA,528,C/LA/2976,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/529,LA,529,C/LA/2976,House,FALSE,murdered boy,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/530,LA,530,C/LA/2977,,FALSE,kilpatrick,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/531,LA,531,C/LA/2977,Moor,FALSE,Kilmacolme,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/532,LA,532,C/LA/2977,Yard,FALSE,christian shaw's,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/533,LA,533,C/LA/2977,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/534,LA,534,C/LA/2977,House,FALSE,murdered boy,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/535,LA,535,C/LA/2978,,FALSE,kilpatrick,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/536,LA,536,C/LA/2978,Moor,FALSE,Kilmacolme,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/537,LA,537,C/LA/2978,Yard,FALSE,christian shaw,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/538,LA,538,C/LA/2978,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/539,LA,539,C/LA/2978,House,FALSE,murdered boy,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/540,LA,540,C/LA/2979,,FALSE,kilpatrick,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/541,LA,541,C/LA/2979,Moor,FALSE,kilmacolme,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/542,LA,542,C/LA/2979,Yard,FALSE,christian shaw,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/543,LA,543,C/LA/2979,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/544,LA,544,C/LA/2979,House,FALSE,murdered boy,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/545,LA,545,C/LA/2980,,FALSE,Kilpatrick,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/546,LA,546,C/LA/2980,Moor,FALSE,Kilmacolme,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/547,LA,547,C/LA/2980,Yard,FALSE,Christian Shaw,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/548,LA,548,C/LA/2980,Yard,FALSE,"murdered minister, Mr. John Hardie",LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/549,LA,549,C/LA/2980,House,FALSE,murdered boy,LEM,01-Feb-02,LEM,01-Feb-02
+MP/LA/55,LA,55,C/EGD/1170,River,FALSE,head of deadman's burne,LEM,18-Jun-01,LEM,18-Jun-01
+MP/LA/552,LA,552,C/EGD/162,Den,FALSE,near Niddrie,LEM,06-May-02,LEM,06-May-02
+MP/LA/553,LA,553,C/EGD/166,Hilltop,FALSE,Coldingham Law,LEM,07-May-02,LEM,07-May-02
+MP/LA/554,LA,554,C/EGD/674,Yard,FALSE,,LEM,07-May-02,LEM,07-May-02
+MP/LA/555,LA,555,C/EGD/674,Shore,FALSE,Eyemouth,LEM,07-May-02,LEM,07-May-02
+MP/LA/556,LA,556,C/LA/3019,Shore,FALSE,Eyemouth,LEM,07-May-02,LEM,07-May-02
+MP/LA/557,LA,557,C/LA/3019,Yard,FALSE,,LEM,07-May-02,LEM,07-May-02
+MP/LA/558,LA,558,C/EGD/301,Forest,FALSE,,LEM,07-May-02,LEM,07-May-02
+MP/LA/559,LA,559,C/EGD/301,House,FALSE,her own,LEM,07-May-02,LEM,07-May-02
+MP/LA/560,LA,560,C/EGD/238,Mill,FALSE,Babirn,LEM,07-May-02,LEM,07-May-02
+MP/LA/561,LA,561,C/EGD/435,Mill,FALSE,Haddington,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/562,LA,562,C/EGD/435,Moor,FALSE,Tranent Muir Brae,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/563,LA,563,C/EGD/435,,FALSE,West Port of Edinburgh,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/564,LA,564,C/EGD/435,Kirk,FALSE,Gladsmuir Kirk,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/565,LA,565,C/EGD/435,Wood,FALSE,Saltoun Wood,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/566,LA,566,C/EGD/435,,FALSE,Wester Saltoun,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/567,LA,567,C/EGD/435,Mill,FALSE,Paiston,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/568,LA,568,C/EGD/435,,FALSE,Haddington,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/569,LA,569,C/EGD/435,Kirkyard,FALSE,Haddington,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/570,LA,570,C/EGD/435,Burn,FALSE,Lethair burn,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/571,LA,571,C/EGD/435,Barn,FALSE,,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/572,LA,572,C/EGD/435,Moor,FALSE,Gladsmuir,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/573,LA,573,C/EGD/435,,FALSE,"East Barnes, Dunbar",LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/574,LA,574,C/EGD/435,,FALSE,Broxburn,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/575,LA,575,C/EGD/435,Links,FALSE,Gullane,LEM,06-Jun-02,LEM,06-Jun-02
+MP/LA/578,LA,578,C/EGD/2244,Hilltop,FALSE,Hill of Rendall,LEM,19-Jun-02,LEM,19-Jun-02
+MP/LA/579,LA,579,C/EGD/2208,Kirkyard,FALSE,Cross Kirk of Westray,LEM,19-Jun-02,jhm,24-Oct-02
+MP/LA/580,LA,580,C/EGD/2212,Loch,FALSE,,LEM,19-Jun-02,LEM,06-Aug-02
+MP/LA/581,LA,581,C/EGD/2211,Hilltop,FALSE,between Harray and Rendall,LEM,19-Jun-02,LEM,19-Jun-02
+MP/LA/582,LA,582,C/EGD/694,Ford,FALSE,Reidfoord,LEM,24-Jun-02,LEM,24-Jun-02
+MP/LA/583,LA,583,C/EGD/687,,FALSE,between Winton and Seaton,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/584,LA,584,C/LA/3061,House,FALSE,Sarah Cranston's,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/585,LA,585,C/LA/3061,Burn,FALSE,cow burn,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/586,LA,586,C/LA/3061,Burn,FALSE,Manispark burn,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/587,LA,587,C/EGD/694,Bridge,FALSE,Keith Bridge,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/588,LA,588,C/EGD/620,Ford,FALSE,Reidfoord,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/589,LA,589,C/EGD/620,Wood,FALSE,Ormiston wood,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/590,LA,590,C/EGD/620,Haugh,FALSE,Lint Haugh,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/591,LA,591,C/EGD/620,Haugh,FALSE,Ward Haugh,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/592,LA,592,C/EGD/616,Dam,FALSE,"Ormiston, Cowsland dean",LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/593,LA,593,C/EGD/616,Burn,FALSE,cows burn,LEM,25-Jun-02,LEM,25-Jun-02
+MP/LA/594,LA,594,C/EGD/703,Links,FALSE,,LEM,04-Jul-02,LEM,04-Jul-02
+MP/LA/595,LA,595,C/EGD/702,Links,FALSE,Bo'ness,LEM,04-Jul-02,LEM,04-Jul-02
+MP/LA/599,LA,599,C/EGD/203,House,FALSE,A fellow witch's house,LEM,12-Jul-02,jhm,23-Oct-02
+MP/LA/6,LA,6,C/EGD/162,Salt pans,FALSE,pan brae of salt pans,LEM,18-May-01,LEM,18-May-01
+MP/LA/60,LA,60,C/LA/2689,Yard,FALSE,tenth yard of eyemouth,LEM,18-Jun-01,LEM,18-Jun-01
+MP/LA/600,LA,600,C/EGD/204,House,FALSE,another witch's house,LEM,12-Jul-02,jhm,23-Oct-02
+MP/LA/601,LA,601,C/EGD/205,House,FALSE,another witch's house,LEM,12-Jul-02,jhm,23-Oct-02
+MP/LA/602,LA,602,C/EGD/291,Yard,FALSE,a yard dyk,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/603,LA,603,C/EGD/292,House,FALSE,,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/604,LA,604,C/EGD/293,,FALSE,Loanhead,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/607,LA,607,C/EGD/311,,FALSE,Gallowhop,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/608,LA,608,C/EGD/311,Hilltop,FALSE,Sandie's Hill,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/609,LA,609,C/EGD/311,,FALSE,"The Home, in Stenton",LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/61,LA,61,C/LA/2689,Shore,FALSE,shore of eyemouth,LEM,18-Jun-01,LEM,18-Jun-01
+MP/LA/610,LA,610,C/EGD/309,House,FALSE,Lacost's house,LEM,18-Jul-02,jhm,04-Nov-02
+MP/LA/611,LA,611,C/EGD/309,,FALSE,Gallowhop,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/612,LA,612,C/EGD/309,Hilltop,FALSE,Sandie's Hill,LEM,18-Jul-02,LEM,18-Jul-02
+MP/LA/613,LA,613,C/EGD/310,Yard,FALSE,her own,LEM,18-Jul-02,jhm,04-Nov-02
+MP/LA/614,LA,614,C/EGD/310,,FALSE,Hallowhop,LEM,18-Jul-02,jhm,04-Nov-02
+MP/LA/615,LA,615,C/EGD/319,House,FALSE,Allesone Fermor's,LEM,19-Jul-02,LEM,19-Jul-02
+MP/LA/616,LA,616,C/EGD/319,,FALSE,Gallowhop,LEM,19-Jul-02,LEM,19-Jul-02
+MP/LA/617,LA,617,C/EGD/318,Burn,FALSE,Carfrae Burn,LEM,19-Jul-02,LEM,19-Jul-02
+MP/LA/618,LA,618,C/EGD/318,,FALSE,Gallowhop,LEM,19-Jul-02,LEM,19-Jul-02
+MP/LA/619,LA,619,C/LA/3135,Kirk,FALSE,Chaple Stair,LEM,19-Jul-02,LEM,19-Jul-02
+MP/LA/620,LA,620,C/EGD/792,House,FALSE,Jon Wilson's,LEM,23-Jul-02,LEM,23-Jul-02
+MP/LA/621,LA,621,C/EGD/33,Glen,FALSE,Glen of Corloy,LEM,24-Jul-02,LEM,24-Jul-02
+MP/LA/622,LA,622,C/EGD/108,,FALSE,Presonpans,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/623,LA,623,C/EGD/120,,FALSE,Prestonpans,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/624,LA,624,C/EGD/120,Kirk,FALSE,North Berwick,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/625,LA,625,C/EGD/120,Kirkyard,FALSE,North Berwick,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/626,LA,626,C/EGD/107,,FALSE,Fyrnt Hoillis of Prestonpans,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/627,LA,627,C/EGD/110,,FALSE,The Ship,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/628,LA,628,C/EGD/63,Hilltop,FALSE,,LEM,26-Jul-02,LEM,26-Jul-02
+MP/LA/629,LA,629,C/EGD/345,Dam,FALSE,The Stone Well,LEM,30-Jul-02,LEM,30-Jul-02
+MP/LA/630,LA,630,C/EGD/345,Green,FALSE,between Tranent and Seaton,LEM,30-Jul-02,LEM,30-Jul-02
+MP/LA/631,LA,631,C/EGD/346,Dam,FALSE,of Tranent,LEM,30-Jul-02,LEM,30-Jul-02
+MP/LA/632,LA,632,C/EGD/346,Green,FALSE,Bragreen between Seaton and Tranent,LEM,30-Jul-02,LEM,30-Jul-02
+MP/LA/633,LA,633,C/EGD/347,,FALSE,Prestonpans,LEM,30-Jul-02,LEM,30-Jul-02
+MP/LA/634,LA,634,C/EGD/353,Kirk,FALSE,the Old Kirk,LEM,01-Aug-02,LEM,01-Aug-02
+MP/LA/635,LA,635,C/EGD/344,Windmill,FALSE,of the pans,LEM,01-Aug-02,LEM,01-Aug-02
+MP/LA/636,LA,636,C/EGD/349,Green,FALSE,Bragreen between Seaton and Tranent,LEM,01-Aug-02,LEM,01-Aug-02
+MP/LA/637,LA,637,C/EGD/343,Green,FALSE,Bragreen between Seaton and Tranent,LEM,01-Aug-02,LEM,01-Aug-02
+MP/LA/638,LA,638,C/EGD/273,Hilltop,FALSE,,LEM,01-Aug-02,LEM,01-Aug-02
+MP/LA/639,LA,639,C/EGD/273,Kirk,FALSE,Irvine,LEM,01-Aug-02,jhm,31-Oct-02
+MP/LA/640,LA,640,C/EGD/1474,Kirk,FALSE,Nairn,LEM,20-Aug-02,LEM,20-Aug-02
+MP/LA/641,LA,641,C/EGD/1474,,FALSE,Darnvay,LEM,20-Aug-02,LEM,20-Aug-02
+MP/LA/642,LA,642,C/EGD/1558,Kirk,FALSE,The Kirk of Auldearn,LEM,22-Aug-02,LEM,22-Aug-02
+MP/LA/643,LA,643,C/EGD/1558,Kirk,FALSE,Kirk of Nairn,LEM,22-Aug-02,LEM,22-Aug-02
+MP/LA/644,LA,644,C/EGD/1558,Hilltop,FALSE,Hill of Earlfeat,LEM,22-Aug-02,LEM,22-Aug-02
+MP/LA/645,LA,645,C/EGD/1558,Dye-House,FALSE,Auldearn,LEM,22-Aug-02,LEM,22-Aug-02
+MP/LA/65,LA,65,C/EGD/1605,House,FALSE,Her house,LEM,19-Jun-01,LEM,19-Jun-01
+MP/LA/66,LA,66,C/EGD/372,Bank Head,FALSE,Wolmet Bank,LEM,27-Jun-01,LEM,27-Jun-01
+MP/LA/661,LA,661,C/EGD/1224,Hilltop,FALSE,Coldinghame Law,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/662,LA,662,C/EGD/1224,House,FALSE,Bessie Sleigh's,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/663,LA,663,C/EGD/1224,Hilltop,FALSE,Borthwick Hill,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/664,LA,664,C/EGD/1224,Hilltop,FALSE,Duns Law,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/665,LA,665,C/EGD/1225,Hilltop,FALSE,Coldingham Law,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/666,LA,666,C/EGD/1225,Hilltop,FALSE,Duns Law,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/667,LA,667,C/EGD/1225,Hilltop,FALSE,Borthwick Hill,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/668,LA,668,C/EGD/1226,Hilltop,FALSE,Duns Law,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/669,LA,669,C/EGD/1226,Hilltop,FALSE,Borthwick Hills,LEM,18-Nov-02,LEM,18-Nov-02
+MP/LA/67,LA,67,C/EGD/372,Moor,FALSE,Burrow Mure,LEM,27-Jun-01,LEM,27-Jun-01
+MP/LA/68,LA,68,C/EGD/371,Road,FALSE,between Sheriffhall burn and Dalkeith,LEM,27-Jun-01,jhm,05-Nov-02
+MP/LA/69,LA,69,C/EGD/374,Yard,FALSE,Sheriffhall,LEM,27-Jun-01,LEM,27-Jun-01
+MP/LA/7,LA,7,C/EGD/162,House,FALSE,suspect's in Nyddrie Myln,LEM,18-May-01,LEM,18-May-01
+MP/LA/70,LA,70,C/EGD/374,House,FALSE,"fellow accused witch's, at 11pm",LEM,27-Jun-01,jhm,05-Nov-02
+MP/LA/71,LA,71,C/EGD/373,Bank Head,FALSE,Wolmet bank,LEM,28-Jun-01,LEM,28-Jun-01
+MP/LA/72,LA,72,C/EGD/370,Bank Head,FALSE,Wolmet Bank,LEM,28-Jun-01,LEM,09-Jul-01
+MP/LA/73,LA,73,C/EGD/370,Yard,FALSE,Sheriffhall,LEM,28-Jun-01,LEM,28-Jun-01
+MP/LA/78,LA,78,C/EGD/1390,Yard,FALSE,Sheriffhall,LEM,28-Jun-01,LEM,28-Jun-01
+MP/LA/79,LA,79,C/EGD/1390,House,FALSE,her house,LEM,28-Jun-01,LEM,28-Jun-01
+MP/LA/8,LA,8,C/EGD/162,Salt pans,FALSE,Salt Coitmure,LEM,18-May-01,LEM,18-May-01
+MP/LA/9,LA,9,C/EGD/166,House,FALSE,Oswald's in Nyddrie Mylne,LEM,18-May-01,LEM,18-May-01
+MP/LA/96,LA,96,C/EGD/380,House,FALSE,her own house,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/97,LA,97,C/EGD/380,Dam,FALSE,Newtown Deimhead,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/98,LA,98,C/EGD/380,Road,FALSE,on the way to the Mill,LEM,29-Jun-01,LEM,29-Jun-01
+MP/LA/99,LA,99,C/EGD/365,Dam,FALSE,Newtown Deinhead,LEM,29-Jun-01,LEM,29-Jun-01
